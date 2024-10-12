@@ -22,9 +22,6 @@
 ![Bootstrap](https://img.shields.io/badge/-ReactNative-05122A?style=social&logo=React&color=353535)![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=social&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwindcss-05122A?style=social&logo=Tailwindcss&color=353535) 
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltuoyo15 &show_icons=true&locale=en&layout=compact" alt="Samuel Tuoyo" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltuoyo15&show_icons=true&locale=en&layout=compact" alt="Samuel Tuoyo" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15" alt="Samuel Tuoyo" />
 </div>
-
-
----
