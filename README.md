@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-📫 How to reach me: [samueltuoyo9082@gmail.com]
+📫 How to reach samueltuoyo9082@gmail.com
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
