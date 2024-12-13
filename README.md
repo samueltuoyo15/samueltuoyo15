@@ -1,10 +1,9 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on React and TypeScript Projects<br>🌱 I’m currently learning React Native +Expo for Mobile Development and Electron for Desktop App Development<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript, NextJs NodeJs, Express Js, Supabase, Firebase, Jwt, Authentication, Mongodb and many more...<br>⚡ Fun fact is that I love playing FreeFire on my free time.
+👯 I’m looking to collaborate on React and TypeScript and Next Js + TailwindCss and Backend Projects<br>🌱 I’m currently learning React Native +Expo for Mobile Development and Electron for Desktop App Development<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript, NextJs NodeJs, Express Js, Supabase, Firebase, Jwt, Authentication, Mongodb and many more...<br>⚡ Fun fact is that I love playing FreeFire on my free time.
 
 
 ## 🌐 Socials:
-📫 How to reach me: [samueltuoyo9082@gmail.com](mailto: samueltuoyo9082@gmail.com)
-
+📫 How to reach me: [samueltuoyo9082@gmail.com]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samueltuoyo9082@gmail.com)
 
