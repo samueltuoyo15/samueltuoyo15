@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on React and TypeScript and Next Js + TailwindCss and Backend Projects<br>🌱 I’m currently learning React Native +Expo for Mobile Development and Electron for Desktop App Development<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript, NextJs NodeJs, Express Js, Supabase, Firebase, Jwt, Authentication, Mongodb and many more...<br>⚡ Fun fact is that Im addicted to coding 
-
+👯 I’m looking to collaborate on React and TypeScript and Next Js + TailwindCss and Backend Projects<br>🌱 I’m currently learning React Native +Expo for Mobile Development and Electron for Desktop App Development<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript, NextJs NodeJs, Express Js, Supabase, Firebase, Jwt, Authentication, Mongodb and many more...
 
 ## 🌐 Socials:
 
