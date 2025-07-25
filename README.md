@@ -13,7 +13,7 @@
 <p align="left">
   Full Stack Developer with a backend mindset — I design systems that scale, APIs that don’t break, and infrastructure that just works.<br><br>
   With nearly 2 years of hands-on experience, I’ve delivered full products end-to-end — but my focus is crafting clean, powerful backend logic that drives real results.<br><br>
-  I let my code speak. I build projects that solve real problems and stand out from the crowd. SWE fluent in Go, TypeScript, and JavaScript.
+  I let my code speak. I build projects that solve real problems and stand out from the crowd. SWE fluent in TypeScript, and JavaScript.
 My GitHub will do the rest of the talking
 </p>
 
