@@ -11,7 +11,7 @@
         </p>
 
 <p align="left">
-  Full Stack Developer with a backend mindset — I design systems and APIs that works, implying serveral concepts like Caching, Rate Limting, Containerizatino and ecetera.<br><br>
+  Full Stack Developer with a backend mindset — I design systems and APIs that works, implying serveral concepts like Caching, Rate Limting, Containerization, Queueing and ecetera.<br><br>
   With just 2 years of hands-on experience, I’ve delivered full products end-to-end — but my focus is crafting clean, powerful backend logic that drives real results.<br><br>
   I let my code speak. I build projects that solve real problems. SWE fluent in TypeScript, and JavaScript.
 </p>
