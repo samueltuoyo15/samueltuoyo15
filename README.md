@@ -11,7 +11,7 @@
         </p>
 
 <p align="left">
-  Hey, I’m Samuel — a Software Engineer with a strong focus on backend development. I design reliable systems and APIs, applying concepts like caching, rate limiting, containerization, and queueing to build scalable solutions.<br><br>
+  Hey, I’m Samuel, a Software Engineer with a strong focus on backend development. I design reliable systems and APIs, applying concepts like caching, rate limiting, containerization, and queueing to build scalable solutions.<br><br>
   With 2 years of hands-on experience, I’ve delivered complete products end-to-end, but my specialty lies in crafting clean, efficient backend logic that powers great user experiences.<br><br>
   Whether it’s fintech, AI/ML, or full-stack web applications, I bring ideas to life from start to finish. If you’re looking for a reliable developer, my DMs are open, above are my social media handles. Let’s build something great together!
 </p>
