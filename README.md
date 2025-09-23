@@ -7,12 +7,8 @@
 
 </h1>
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samueltuoyo15&theme=github">
-</p>
-
 <p align="left">
-  Hey, I’m Samuel, a Software Engineer with a strong focus on backend development. I specialize in designing scalable APIs and backend systems with Node.js, Go, Redis, Docker, and modern authentication methods like JWT.<br><br>
+  Hey, I’m Samuel, an Experienced Software Engineer with a strong focus on backend development. I specialize in designing scalable APIs and backend systems with Node.js, Go, Redis, Docker, and modern authentication methods like JWT.<br><br>
   I’ve worked end-to-end on fintech, AI/ML, and high-performance platforms. One of my proudest contributions was co-building <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, an AI/ML startup now live and growing, where I integrated Flutterwave to handle seamless payments.<br><br>
   My expertise lies in backend architecture, containerization, caching, queueing, and performance optimization. If you’re looking for someone to handle the heavy lifting behind your product, let’s build something great together!
 </p>
