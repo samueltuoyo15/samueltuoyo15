@@ -1,19 +1,11 @@
-<h1 align="center"> Samuel Tuoyo </h1>
+<h1 align="center"> Samuel Tuoyo 
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349161591177) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samueltuoyo9082@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:35px; width:35px;"/>
-  </a>
-  <a href="https://twitter.com/Tuoyos26091" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height:35px; width:35px;"/>
-  </a>
-  <a href="https://wa.me/2349161591177" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white" style="height:35px; width:35px;"/>
-  </a>
-  <a href="mailto:samueltuoyo9082@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:35px; width:35px;"/>
-  </a>
-</p>
+</h1>
 
 <p align="left">
   Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>.<br><br>
