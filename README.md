@@ -1,17 +1,24 @@
-<h1 align="center"> Samuel Tuoyo 
-    
-### My Socials    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349161591177) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samueltuoyo9082@gmail.com)
+<h1 align="center"> Samuel Tuoyo </h1>
 
-</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:35px; width:35px;"/>
+  </a>
+  <a href="https://twitter.com/Tuoyos26091" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="height:35px; width:35px;"/>
+  </a>
+  <a href="https://wa.me/2349161591177" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white" style="height:35px; width:35px;"/>
+  </a>
+  <a href="mailto:samueltuoyo9082@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="height:35px; width:35px;"/>
+  </a>
+</p>
 
 <p align="left">
   Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>.<br><br>
   I build scalable, production-grade systems from backend to frontend. On the backend, I specialize in Node.js, Go, Redis, Docker, and JWT authentication. On the frontend, I create modern, high-performing interfaces with React, Next.js, TailwindCSS, and Iconsax.<br><br>
-  I’ve worked end-to-end on fintech, AI/ML, and real-time communication platforms. One of my proudest achievements was co-building as a Backend Engineer <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, an AI/ML startup where I integrated Flutterwave for seamless payment experiences.<br><br>
+  I’ve worked end-to-end on fintech, AI/ML, and real-time communication platforms. One of my proudest achievements was co-building <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, an AI/ML startup where I integrated Flutterwave for seamless payment experiences.<br><br>
   From scalable APIs and database design to sleek UI/UX and optimized data flows — I love bringing ideas to life through technology. Let’s build something amazing together 🚀
 </p>
 
