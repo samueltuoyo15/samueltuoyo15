@@ -75,13 +75,5 @@
     <a href="https://discord.com/users/codestorm1875">Discord</a>
   </p>
 </section>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349161591177) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samueltuoyo9082@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/codestorm1875)
-<a style="text-decoration: none;" href="https://github.com/samueltuoyo15">
-  <img style="border-radius:10px" src="https://hits.sh/github.com/samueltuoyo15/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
-</a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false)
