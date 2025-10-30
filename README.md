@@ -12,7 +12,7 @@
 </section>
 
 <section>
-  <h3>🛠️ Tech Stack</h3>
+  <h3>Tech Stack</h3>
   
   <p><b>Backend Engineering</b></p>
   <a href="#gh-dark-mode-only">
