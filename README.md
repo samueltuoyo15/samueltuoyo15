@@ -62,8 +62,7 @@
     <a href="https://www.linkedin.com/in/samuel-tuoyo-8568b62b6">LinkedIn</a> • 
     <a href="https://twitter.com/Tuoyos26091">Twitter/X</a> • 
     <a href="https://wa.me/2349161591177">WhatsApp</a> • 
-    <a href="mailto:samueltuoyo9082@gmail.com">Email</a> • 
-    <a href="https://discord.com/users/codestorm1875">Discord</a>
+    <a href="mailto:samueltuoyo9082@gmail.com">Email</a> 
   </p>
 </section>
 
