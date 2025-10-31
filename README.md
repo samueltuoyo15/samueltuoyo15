@@ -54,6 +54,8 @@
   </a>
 </section>
 
+<br/>
+
 <section>
   <h3>Contact</h3>
   <p>
