@@ -55,17 +55,6 @@
 </section>
 
 <section>
-  <h3>Projects</h3>
-  <ul>
-    <li>
-      <b><a href="https://github.com/samueltuoyo15/Dokugen">README GENERATOR
-    </li>
-  </ul>
-</section>
-
-<br/>
-
-<section>
   <h3>Contact</h3>
   <p>
     <a href="https://www.linkedin.com/in/samuel-tuoyo-8568b62b6">LinkedIn</a> • 
