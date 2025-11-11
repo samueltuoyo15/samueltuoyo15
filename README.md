@@ -1,5 +1,6 @@
 <h1 align="center"> Samuel Tuoyo 
     
+[![LinkedIn](https://img.shields.io/badge/Medium-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@samueltuoyo9082)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-tuoyo-8568b62b6) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349161591177) 
