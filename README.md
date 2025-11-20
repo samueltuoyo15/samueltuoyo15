@@ -12,14 +12,14 @@
   Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>.<br><br>
   I build scalable, production-grade systems from backend to frontend. On the backend, I specialize in Node.js, Go, Redis, Docker, and JWT authentication. On the frontend, I create modern, high-performing interfaces with React, Next.js, TailwindCSS, and Iconsax.<br><br>
   I’ve worked end-to-end on fintech, AI/ML, and real-time communication platforms. One of my proudest achievements was co-building <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, an AI/ML startup where I integrated Flutterwave for seamless payment experiences.<br><br>
-  From scalable APIs and database design to sleek UI/UX and optimized data flows — I love bringing ideas to life through technology. Let’s build something amazing together 🚀
+  From scalable APIs and database design to sleek UI/UX and optimized data flows, I love bringing ideas to life through technology. Let’s build something amazing together 
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🧠 Backend
+#### Backend
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-%23000000.svg?style=for-the-badge&logo=fiber&logoColor=white)
@@ -34,7 +34,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-#### 🎨 Frontend
+#### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,12 +46,12 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🗄️ Databases
+#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 💳 Payment & Integrations
+#### Payment & Integrations
 ![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-%230096D6.svg?style=for-the-badge&logo=paystack&logoColor=white)
 ![Flutterwave](https://img.shields.io/badge/Flutterwave-%23000000.svg?style=for-the-badge&logo=flutterwave&logoColor=white)
