@@ -17,20 +17,22 @@
 
 ---
 
-### My recent Open Source Contributions
+### 🤝 My Recent Open Source Contributions
 
 > As an active member of the open-source community, I've collaborated on various projects to improve code quality, fix bugs, and add new features. This experience demonstrates my ability to integrate into existing codebases, work with diverse teams, and adhere to project standards—all crucial skills for a successful engineering environment.
 
-* **Project Name 1** - [Original Repository Link](URL)
-    * **Contribution:** Briefly describe your contribution (e.g., *Implemented a new middleware for rate limiting using Redis, improving API stability under high load.*)
-* **Project Name 2** - [Original Repository Link](URL)
-    * **Contribution:** Briefly describe your contribution (e.g., *Refactored the React component lifecycle to functional hooks, leading to a 15% performance improvement in page load.*)
-* **Project Name 3** - [Original Repository Link](URL)
-    * **Contribution:** Briefly describe your contribution (e.g., *Fixed a critical security vulnerability related to input sanitization in the Go backend.*)
+* **Zendo** - [Original Repository Link](https://github.com/onosejoor/zendo/tree/samuel/obserbility-feature/server)
+    * **Contribution:** Integrated a full **Monitoring and Observability** stack using **Prometheus** and **Grafana** within the **Golang** server. This enables real-time monitoring of server health, performance metrics, and system stability, ensuring proactive issue detection.
+    * *Video Demonstration:* `<video src="/grafana.mp4" />`
+
+* **Happr** - [Original Repository Link](https://github.com/samueltuoyo15/Happr/tree/main/server)
+    * **Contribution:** Developed and implemented the **entire robust backend** for a creator support platform (similar to Buy Me a Coffee) tailored for African markets. This involved designing scalable API architecture and implementing core business logic.
+    * *API Documentation:* ![Swagger Screenshot for Happr Backend](https://raw.githubusercontent.com/samueltuoyo15/Happr/main/swagger_screenshot.png) 
+    *(Note: Please replace `https://raw.githubusercontent.com/samueltuoyo15/Happr/main/swagger_screenshot.png` with the actual path or URL to your image file. I've used a hypothetical path based on your Happr repository name, assuming the image is in the `main` branch root.)*
 
 ---
 
-### Tech Stack
+### ⚙️ Tech Stack
 
 #### Backend
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
