@@ -21,11 +21,11 @@
 
 > As an active member of the open-source community, I've collaborated on various projects to improve code quality, fix bugs, and add new features. This experience demonstrates my ability to integrate into existing codebases, work with diverse teams, and adhere to project standards—all crucial skills for a successful engineering environment.
 
-* **Zendo** - [Original Repository Link](https://github.com/onosejoor/zendo/tree/samuel/obserbility-feature/server)
+* **Zendo** - [Repository Link](https://github.com/onosejoor/zendo/tree/samuel/obserbility-feature/server)
     * **Contribution:** Integrated a full **Monitoring and Observability** stack using **Prometheus** and **Grafana** within the **Golang** server. This enables real-time monitoring of server health, performance metrics, and system stability, ensuring proactive issue detection.
     * *Video Demonstration:* <video src="/public/grafana_final_quality.mp4" muted autoplay loop />
 
-* **Happr** - [Original Repository Link](https://github.com/samueltuoyo15/Happr/tree/main/server)
+* **Happr** - [Repository Link](https://github.com/samueltuoyo15/Happr/tree/main/server)
     * **Contribution:** Developed and implemented the **entire robust backend** for a creator support platform (similar to Buy Me a Coffee) tailored for African markets. This involved designing scalable API architecture and implementing core business logic.
     * *API Documentation:* ![Swagger Screenshot for Happr Backend](/public/happr-demo.png)
 
