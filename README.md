@@ -1,9 +1,9 @@
 <h1 align="center"> Samuel Tuoyo 
     
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samueltuoyo9082)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-tuoyo-8568b62b6) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349161591177) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samueltuoyo9082)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samueltuoyo9082@gmail.com)
 
 </h1>
@@ -14,6 +14,19 @@
   I’ve worked end-to-end on fintech, AI/ML, and real-time communication platforms. One of my proudest achievements was co-building <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, an AI/ML startup where I integrated Flutterwave for seamless payment experiences.<br><br>
   From scalable APIs and database design to sleek UI/UX and optimized data flows, I love bringing ideas to life through technology. Let’s build something amazing together 
 </p>
+
+---
+
+### My recent Open Source Contributions
+
+> As an active member of the open-source community, I've collaborated on various projects to improve code quality, fix bugs, and add new features. This experience demonstrates my ability to integrate into existing codebases, work with diverse teams, and adhere to project standards—all crucial skills for a successful engineering environment.
+
+* **Project Name 1** - [Original Repository Link](URL)
+    * **Contribution:** Briefly describe your contribution (e.g., *Implemented a new middleware for rate limiting using Redis, improving API stability under high load.*)
+* **Project Name 2** - [Original Repository Link](URL)
+    * **Contribution:** Briefly describe your contribution (e.g., *Refactored the React component lifecycle to functional hooks, leading to a 15% performance improvement in page load.*)
+* **Project Name 3** - [Original Repository Link](URL)
+    * **Contribution:** Briefly describe your contribution (e.g., *Fixed a critical security vulnerability related to input sanitization in the Go backend.*)
 
 ---
 
@@ -28,7 +41,7 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-%23FF0000.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%230084FF.svg?style=for-the-badge&logo=websockets&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-%230084FF.svg?style=for-for-the-badge&logo=websockets&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -55,7 +68,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-%230096D6.svg?style=for-the-badge&logo=paystack&logoColor=white)
 ![Flutterwave](https://img.shields.io/badge/Flutterwave-%23000000.svg?style=for-the-badge&logo=flutterwave&logoColor=white)
-![Moniepoint](https://img.shields.io/badge/Moniepoint-%231572B6.svg?style=for-the-badge)
+![Monnify](https://img.shields.io/badge/Monnify-%231572B6.svg?style=for-the-badge)
 
 ---
 
