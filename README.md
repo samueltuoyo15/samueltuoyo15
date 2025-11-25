@@ -23,7 +23,7 @@
 
 * **Zendo** - [Repository Link](https://github.com/onosejoor/zendo/tree/samuel/obserbility-feature/server)
     * **Contribution:** Integrated a full **Monitoring and Observability** stack using **Prometheus** and **Grafana** within the **Golang** server. This enables real-time monitoring of server health, performance metrics, and system stability, ensuring proactive issue detection.
-    * *Video Demonstration:* <video src="/public/grafana_final_quality.mp4" muted autoplay loop />
+    * *Video Demonstration:* <video src="/public/grafana_final_9_7mb.mp4" muted autoplay loop />
 
 * **Happr** - [Repository Link](https://github.com/samueltuoyo15/Happr/tree/main/server)
     * **Contribution:** Developed and implemented the **entire robust backend** for a creator support platform (similar to Buy Me a Coffee) tailored for African markets. This involved designing scalable API architecture and implementing core business logic.
