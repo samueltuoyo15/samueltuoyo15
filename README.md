@@ -17,22 +17,21 @@
 
 ---
 
-### 🤝 My Recent Open Source Contributions
+### My Recent Open Source Contributions
 
 > As an active member of the open-source community, I've collaborated on various projects to improve code quality, fix bugs, and add new features. This experience demonstrates my ability to integrate into existing codebases, work with diverse teams, and adhere to project standards—all crucial skills for a successful engineering environment.
 
 * **Zendo** - [Original Repository Link](https://github.com/onosejoor/zendo/tree/samuel/obserbility-feature/server)
     * **Contribution:** Integrated a full **Monitoring and Observability** stack using **Prometheus** and **Grafana** within the **Golang** server. This enables real-time monitoring of server health, performance metrics, and system stability, ensuring proactive issue detection.
-    * *Video Demonstration:* `<video src="/public/grafana.mvk" />`
+    * *Video Demonstration:* <video src="/public/grafana.mvk" muted autoplay loop />
 
 * **Happr** - [Original Repository Link](https://github.com/samueltuoyo15/Happr/tree/main/server)
     * **Contribution:** Developed and implemented the **entire robust backend** for a creator support platform (similar to Buy Me a Coffee) tailored for African markets. This involved designing scalable API architecture and implementing core business logic.
-    * *API Documentation:* ![Swagger Screenshot for Happr Backend](https://raw.githubusercontent.com/samueltuoyo15/Happr/main/swagger_screenshot.png) 
-    *(Note: Please replace `https://raw.githubusercontent.com/samueltuoyo15/Happr/main/swagger_screenshot.png` with the actual path or URL to your image file. I've used a hypothetical path based on your Happr repository name, assuming the image is in the `main` branch root.)*
+    * *API Documentation:* ![Swagger Screenshot for Happr Backend](/public/happr-demo.png)
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 #### Backend
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
