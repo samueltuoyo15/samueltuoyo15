@@ -8,8 +8,7 @@
 
 </h1>
 
-<p align="left">
-  Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>. I build scalable, production-grade systems from backend to frontend. My core focus is on Node.js/TypeScript for robust backend architecture and React/Next.js for modern, high-performing user interfaces.
+<p align="left"> Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>. I build scalable, production-grade systems from backend to frontend. My core focus is on Node.js/TypeScript for robust backend architecture and React/Next.js for modern, high-performing user interfaces.
   I have proven experience developing end-to-end solutions across fintech, AI/ML, and critical healthcare platforms.
 </p>
 
