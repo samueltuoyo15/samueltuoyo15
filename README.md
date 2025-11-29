@@ -9,13 +9,25 @@
 </h1>
 
 <p align="left">
-  Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>.<br><br>
-  I build scalable, production-grade systems from backend to frontend. On the backend, I specialize in Node.js, Go, Redis, Docker, and JWT authentication. On the frontend, I create modern, high-performing interfaces with React, Next.js, TailwindCSS, and Iconsax.<br><br>
-  I’ve worked end-to-end on fintech, AI/ML, and real-time communication platforms. One of my proudest achievements was co-building <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, an AI/ML startup where I integrated Flutterwave for seamless payment experiences.<br><br>
-  From scalable APIs and database design to sleek UI/UX and optimized data flows, I love bringing ideas to life through technology. Let’s build something amazing together 
+  Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>.<br><br>
+  I build **scalable, production-grade systems** from backend to frontend. My core focus is on Node.js/TypeScript for robust backend architecture and React/Next.js for modern, high-performing user interfaces.<br><br>
+  I have proven experience developing end-to-end solutions across **fintech, AI/ML, and critical healthcare platforms.**<br><br>
+  
+    ### Deep Technical Experience
+  
+    I am **currently engineering the resilient backend** for an upcoming healthcare startup, **<a href="[https://nexusbotix.io"](https://x.com/kovanacare) target="_blank"> Kovana Care**, utilizing a high-performance stack (NestJS, TypeScript, Node.js, and Prisma). I designed the scalable monorepo structure (Turborepo/PNPM) to efficiently manage independent services like the Patient and Doctor APIs. I utilize **Redis** for crucial caching and asynchronous job processing (via BullMQ) to ensure fast responsiveness and handle high loads. My implementations feature secure **JWT authentication**, full user lifecycle management, and critical integrations like Twilio (SMS) and Nodemailer (Email).<br><br>
+  
+    ### Entrepreneurial Impact
+  
+    As a backend engineer of an AI/ML startup, **<a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>**, I was directly responsible for architecting and implementing key **fintech** infrastructure. I integrated **Flutterwave** for seamless and secure payment experiences, demonstrating an ability to translate complex business requirements into reliable production code.<br><br>
 </p>
 
 ---
+
+### I implemented a real-time notification pipeline for Kovana Care (the health care startup) using EventEmitter, RxJS & SSE for live updates for a health care startup. I also introduced a modular architecture and moved the backend to a Turborepo monorepo for the 2 backend apps: Doctors & Patients
+ <video src="https://github.com/user-attachments/assets/a05f0af8-0dc3-4a16-bb7a-0bed534c7819](https://github.com/user-attachments/assets/1a904ed6-23ba-4011-9edd-99ea42b8b7f6" muted autoplay loop />
+
+
 
 ### My Recent Open Source Contributions
 
