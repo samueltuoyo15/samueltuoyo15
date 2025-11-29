@@ -30,7 +30,7 @@
 
 #### Real-time Notification Pipeline
 I implemented a real-time notification pipeline for Kovana Care using **EventEmitter**, **RxJS**, and **SSE (Server-Sent Events)** for live updates across the platform. I also introduced a modular architecture and moved the backend to a Turborepo monorepo for the two backend applications: Doctors & Patients.
-<video src="https://github.com/user-attachments/assets/a05f0af8-0dc3-4a16-bb7a-0bed534c7819" muted autoplay loop />
+<video src="https://github.com/user-attachments/assets/1a904ed6-23ba-4011-9edd-99ea42b8b7f6" muted autoplay loop />
 
 
 ### My Recent Open Source Contributions
