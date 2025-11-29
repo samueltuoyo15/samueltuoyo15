@@ -13,13 +13,11 @@
 </p>
 
 ### Deep Technical Experience
-<p align="left">
-  I am currently engineering the resilient backend for an upcoming healthcare startup, <a href="https://x.com/kovanacare" target="_blank">Kovana Care</a>, utilizing a high-performance stack (NestJS, TypeScript, Node.js, and Prisma). I designed the scalable monorepo structure (Turborepo/PNPM) to efficiently manage independent services like the Patient and Doctor APIs. I utilize Redis for crucial caching and asynchronous job processing (via BullMQ) to ensure fast responsiveness and handle high loads. My implementations feature secure JWT authentication, full user lifecycle management, and critical integrations like Twilio (SMS) and Nodemailer (Email).
+<p align="left"> I am currently engineering the resilient backend for an upcoming healthcare startup, <a href="https://x.com/kovanacare" target="_blank">Kovana Care</a>, utilizing a high-performance stack (NestJS, TypeScript, Node.js, and Prisma). I designed the scalable monorepo structure (Turborepo/PNPM) to efficiently manage independent services like the Patient and Doctor APIs. I utilize Redis for crucial caching and asynchronous job processing (via BullMQ) to ensure fast responsiveness and handle high loads. My implementations feature secure JWT authentication, full user lifecycle management, and critical integrations like Twilio (SMS) and Nodemailer (Email).
 </p>
 
 ### Entrepreneurial Impact
-<p align="left">
-  As a backend engineer of an AI/ML startup, <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, I was directly responsible for architecting and implementing key fintech infrastructure. I integrated Flutterwave for seamless and secure payment experiences, demonstrating an ability to translate complex business requirements into reliable production code.
+<p align="left"> As a backend engineer of an AI/ML startup, <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, I was directly responsible for architecting and implementing key fintech infrastructure. I integrated Flutterwave for seamless and secure payment experiences, demonstrating an ability to translate complex business requirements into reliable production code.
 </p>
 
 ---
