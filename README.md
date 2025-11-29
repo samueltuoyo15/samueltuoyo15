@@ -9,8 +9,8 @@
 </h1>
 
 <p align="left">
-  Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>.<br><br> I build scalable, production-grade systems from backend to frontend. My core focus is on Node.js/TypeScript for robust backend architecture and React/Next.js for modern, high-performing user interfaces.<br><br>
-  I have proven experience developing end-to-end solutions across fintech, AI/ML, and critical healthcare platforms.<br><br>
+  Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>. I build scalable, production-grade systems from backend to frontend. My core focus is on Node.js/TypeScript for robust backend architecture and React/Next.js for modern, high-performing user interfaces.
+  I have proven experience developing end-to-end solutions across fintech, AI/ML, and critical healthcare platforms.
 </p>
 
 ### Deep Technical Experience
@@ -20,7 +20,7 @@
 
 ### Entrepreneurial Impact
 <p align="left">
-  As a backend engineer of an AI/ML startup, <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, I was directly responsible for architecting and implementing key fintech infrastructure. I integrated Flutterwave for seamless and secure payment experiences, demonstrating an ability to translate complex business requirements into reliable production code.<br><br>
+  As a backend engineer of an AI/ML startup, <a href="https://nexusbotix.io" target="_blank">Nexus Botix</a>, I was directly responsible for architecting and implementing key fintech infrastructure. I integrated Flutterwave for seamless and secure payment experiences, demonstrating an ability to translate complex business requirements into reliable production code.
 </p>
 
 ---
@@ -81,8 +81,8 @@ I implemented a real-time notification pipeline for Kovana Care using EventEmitt
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23336791.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Sqlite](https://img.shields.io/badge/Sqlite-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Payment & Integrations
 ![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
