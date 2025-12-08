@@ -89,6 +89,8 @@ I implemented a real-time notification pipeline for Kovana Care using EventEmitt
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=samueltuoyo15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samueltuoyo15&theme=radical)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuoyo15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
