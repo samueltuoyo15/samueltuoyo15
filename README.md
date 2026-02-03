@@ -8,8 +8,11 @@
 
 </h1>
 
-<p align="left"> Hey, I’m Samuel, an <strong>Experienced Full Stack Software Engineer specializing in Web Development</strong>. I build scalable, production-grade systems from backend to frontend. My core focus is on Node.js/TypeScript for robust backend architecture and React/Next.js for modern, high-performing user interfaces.
-  I have proven experience developing end-to-end solutions across fintech, AI/ML, and critical healthcare platforms.
+<p align="left"> Full-Stack Software Developer specializing in high-concurrency API architecture and secure
+multi-tenant systems. Expert in Node.js (NestJS) with a focus on real-time data synchronization
+(SSE/RxJS), complex payment orchestration (Paystack/Monnify), and production-grade
+observability (Prometheus/Grafana). Proven track record in designing robust RBAC frameworks
+and scalable database schemas that ensure 99.1% system reliability and data isolation.
 </p>
 
 ### Tech Stack
