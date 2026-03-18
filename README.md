@@ -8,13 +8,6 @@
 
 </h1>
 
-<p align="left"> Full-Stack Software Developer specializing in high-concurrency API architecture and secure
-multi-tenant systems. Expert in Node.js (NestJS) with a focus on real-time data synchronization
-(SSE/RxJS), complex payment orchestration (Paystack/Monnify), and production-grade
-observability (Prometheus/Grafana). Proven track record in designing robust RBAC frameworks
-and scalable database schemas that ensure 99.1% system reliability and data isolation.
-</p>
-
 ### Tech Stack
 
 #### Backend
