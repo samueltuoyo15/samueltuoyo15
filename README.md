@@ -1,54 +1,30 @@
-<h1 align="center"> Samuel Tuoyo
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueltuoyo)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Tuoyos26091)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/2349161591177)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samueltuoyo9082)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samueltuoyo9082@gmail.com)
+➤ Check out my <a href="https://samueltuoyo.com" target="_blank">portfolio</a><br>
+➤ Full-Stack & Product Engineer<br>
+➤ I build high-performance web applications, scalable backend systems, and complete products from idea to production.<br>
+➤ Connect with me: <a href="mailto:samueltuoyo9082@gmail.com">[samueltuoyo9082@gmail.com](mailto:samueltuoyo9082@gmail.com)</a><br>
+➤ Read my blogs & posts: <a href="https://medium.com/@samueltuoyo9082" target="_blank">Medium</a> • <a href="https://x.com/TuoyoS26091" target="_blank">X</a> • <a href="https://linkedin.com/in/samueltuoyo" target="_blank">LinkedIn</a><br>
+➤ Specialized in: TypeScript • Node.js • NestJS • React • Next.js • PostgreSQL<br>
+➤ Frontend: React • Next.js • Vite • Tailwind CSS • Responsive UI • Accessibility<br>
+➤ Backend: Node.js • NestJS • Express • REST APIs • Authentication • OAuth 2.0 • WebSockets • SSE<br>
+➤ Databases: PostgreSQL • MongoDB • Redis • SQLite • Prisma • Drizzle ORM • BullMQ<br>
+➤ Architecture: Distributed Systems • RBAC • Multi-Tenancy • API Design • System Design<br>
+➤ DevOps & Security: Docker • Docker Compose • Nginx • CI/CD • Cloudflare • CORS • Helmet <br>
+➤ Payments: Flutterwave • Paystack • Stripe • Monnify<br>
+➤ Desktop: Electron • React • TypeScript<br>
+➤ Featured Projects: <a href="https://myhappr.com" target="_blank">Myhappr</a> • <a href="https://dokugen.samueltuoyo.com" target="_blank">Dokugen</a> • <a href="https://sendlib.samueltuoyo.com" target="_blank">SendLib</a> • <a href="https://saveit.samueltuoyo.com" target="_blank">SaveIt</a><br>
+➤ Open Source: <a href="https://dokugen.samueltuoyo.com" target="_blank">Dokugen</a> • AI-powered README and documentation tooling<br>
+➤ Currently Exploring: Python • Data Structures & Algorithms • Graph Theory • System Design • Distributed Systems<br><br>
 
-</h1>
-
-### Tech Stack
-
-#### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-%23FF0000.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%230084FF.svg?style=for-the-badge&logo=websockets&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![Iconsax](https://img.shields.io/badge/Iconsax-%23000000.svg?style=for-the-badge&logo=iconsax&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Payment & Integrations
-![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Paystack](https://img.shields.io/badge/Paystack-%230096D6.svg?style=for-the-badge&logo=paystack&logoColor=white)
-![Flutterwave](https://img.shields.io/badge/Flutterwave-%23000000.svg?style=for-the-badge&logo=flutterwave&logoColor=white)
-![Monnify](https://img.shields.io/badge/Monnify-%231572B6.svg?style=for-the-badge)
-
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samueltuoyo15&theme=radical)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false)<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samueltuoyo15&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samueltuoyo15&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samueltuoyo15&theme=radical" />
+    </td>
+  </tr>
+</table>
