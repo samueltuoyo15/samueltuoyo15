@@ -10,16 +10,7 @@
 ➤ Featured Projects: <a href="https://myhappr.com" target="_blank">Myhappr</a> • <a href="https://dokugen.samueltuoyo.com" target="_blank">Dokugen</a> • <a href="https://sendlib.samueltuoyo.com" target="_blank">SendLib</a> • <a href="https://saveit.samueltuoyo.com" target="_blank">SaveIt</a><br>
 ➤ Currently Exploring: Python • Data Structures & Algorithms • System Design • Distributed Systems<br><br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samueltuoyo15&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samueltuoyo15&theme=radical" />
-    </td>
-  </tr>
-</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samueltuoyo15&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samueltuoyo15&theme=radical" />
