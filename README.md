@@ -2,7 +2,7 @@
 ➤ Full-Stack & Product Engineer<br>
 ➤ I build high-performance web applications, scalable backend systems, and complete products from idea to production.<br>
 ➤ Connect with me: <a href="mailto:samueltuoyo9082@gmail.com">[samueltuoyo9082@gmail.com](mailto:samueltuoyo9082@gmail.com)</a><br>
-➤ Read my blogs & posts: <a href="https://medium.com/@samueltuoyo9082" target="_blank">Medium</a> • <a href="https://x.com/TuoyoS26091" target="_blank">X</a> • <a href="https://linkedin.com/in/samueltuoyo" target="_blank">LinkedIn</a><br>
+➤ Read my blogs & posts: <a href="https://medium.com/@samueltuoyo" target="_blank">Medium</a> • <a href="https://x.com/TuoyoS26091" target="_blank">X</a> • <a href="https://linkedin.com/in/samueltuoyo" target="_blank">LinkedIn</a><br>
 ➤ Specialized in: TypeScript • Node.js • NestJS • React • Next.js • PostgreSQL<br>
 ➤ Frontend: React • Next.js • Vite • Tailwind CSS • Accessibility<br>
 ➤ Backend: Node.js • NestJS • Express • REST APIs • Authentication • OAuth 2.0<br>
