@@ -1,3 +1,5 @@
+Co-founded a creator payments startup, launched a monetized transactional email platform, and built an open-source developer tool with 338 GitHub stars and an official AI infrastructure sponsor.
+
 ➤ Check out my <a href="https://samueltuoyo.com" target="_blank">portfolio</a><br>
 ➤ Full-Stack & Product Engineer<br>
 ➤ I build high-performance web applications, scalable backend systems, and complete products from idea to production.<br>
